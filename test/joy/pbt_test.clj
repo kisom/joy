@@ -7,5 +7,5 @@
   (testing "Roots are equal"
     (let [baselist (xconj nil 5)
           list1 (xconj baselist 3)
-          list2 (conj baselist 7)]
-      (is (identical? (:l list1) (:r list2))))))
+          list2 (xconj baselist 7)]
+      (is (identical? (:value list1) (:value list2))))))
