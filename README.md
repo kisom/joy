@@ -1,13 +1,11 @@
 # joy
 
-A Clojure library designed to ... well, that part is up to you.
+Supporting code for "The Joy of Clojure".
 
 ## Usage
 
-FIXME
+The code is either directly from "The Joy of Clojure" or supports it.
 
 ## License
 
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+This code is released under an ISC license.
